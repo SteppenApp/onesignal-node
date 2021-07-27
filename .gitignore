@@ -59,6 +59,3 @@ typings/
 
 # idea files
 .idea
-
-# Output files
-lib
